@@ -1,0 +1,8 @@
+[package]
+name = "rust-nixos-sendmail"
+version = "0.1.0"
+authors = ["Markus Kohlhase <mail@markus-kohlhase.de>"]
+
+[dependencies]
+chrono = "*"
+quoted_printable = "*"
